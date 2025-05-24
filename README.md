@@ -1,1 +1,1 @@
-# calcalator
+just a calculator
